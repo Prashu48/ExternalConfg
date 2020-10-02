@@ -1,0 +1,12 @@
+
+my:
+ list:
+  greeting: Hello,Test,Profile
+  
+dbvalues: "{connectionURL:'localhost:3601/jvdb', username :'root',password:'root',driverclass:'Drivermanager.class'}"
+
+mysql:
+ url: jdbc:mysql://localhost:3306/TestInquiryBook
+ username: root 
+ password: 1234
+ driverclass: com.mysql.cj.jdbc.Driver
